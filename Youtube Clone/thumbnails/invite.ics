@@ -1,0 +1,104 @@
+BEGIN:VCALENDAR
+METHOD:REQUEST
+PRODID:Microsoft Exchange Server 2010
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:India Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T000000
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER;CN=Shashi Prabha Singh (TCIN):mailto:shashi.ps@toyotaconnected.co
+ .in
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Jatinderku
+ mar Jagdishram (TCIN):mailto:jatinderkumar.j@toyotaconnected.co.in
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=udaykiran_
+ ramaraju@srmap.edu.in:mailto:udaykiran_ramaraju@srmap.edu.in
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Jafrin Asf
+ ara T (TCIN):mailto:jafrin.asfara@toyotaconnected.co.in
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Suganya De
+ vi (TCIN):mailto:suganya.devi@toyotaconnected.co.in
+ATTACH:CID:1ABB355CD9C6684FA3CB761C8EDFE89D@INDPRD01.PROD.OUTLOOK.COM
+ATTACH:CID:image001.png@01D92F59.73593040
+DESCRIPTION;LANGUAGE=en-US:Hi All\,\n\nPlease find the invite for the Inter
+ view.\nKindly confirm your availability by accepting the invite.\n\nThanks
+  & Regards\,\nShashi Singh\n\n[cid:image001.png@01D92F59.73593040]\n\n\n__
+ __________________________________________________________________________
+ ____\nMicrosoft Teams meeting\nJoin on your computer\, mobile app or room 
+ device\nClick here to join the meeting<https://teams.microsoft.com/l/meetu
+ p-join/19%3ameeting_MDdiY2FjMTYtMDMzMy00NjVmLWFjZDMtZWY3MDVjNmRjZGE1%40thr
+ ead.v2/0?context=%7b%22Tid%22%3a%22cfb57949-7a2c-4f96-b7f8-05382a502dad%22
+ %2c%22Oid%22%3a%22a1d8fb45-237a-4635-aae4-82906d531b60%22%7d>\nMeeting ID:
+  444 407 142 294\nPasscode: onvJNC\nDownload Teams<https://www.microsoft.c
+ om/en-us/microsoft-teams/download-app> | Join on the web<https://www.micro
+ soft.com/microsoft-teams/join-a-meeting>\nLearn More<https://aka.ms/JoinTe
+ amsMeeting> | Meeting options<https://teams.microsoft.com/meetingOptions/?
+ organizerId=a1d8fb45-237a-4635-aae4-82906d531b60&tenantId=cfb57949-7a2c-4f
+ 96-b7f8-05382a502dad&threadId=19_meeting_MDdiY2FjMTYtMDMzMy00NjVmLWFjZDMtZ
+ WY3MDVjNmRjZGE1@thread.v2&messageId=0&language=en-US>\n___________________
+ _____________________________________________________________\n\nDisclaime
+ r: This e-mail contains proprietary and confidential information belonging
+  to Toyota Connected India Pvt. Ltd. (TCIN) and is intended solely for the
+  use of addressees. If you are not the intended recipient of this e-mail\,
+  kindly delete it immediately from your system and notify the sender about
+  the wrong delivery and the mail deletion. The unauthorized disclosure\, u
+ se\, dissemination or copying\, either whole or portion\, of this e-mail\,
+  or any information it contains\, is prohibited. E-mails are susceptible t
+ o alteration and their integrity cannot be guaranteed. TCIN shall not be l
+ iable for this e-mail or its contents\, if it is modified\, tampered or fa
+ lsified.\n
+UID:040000008200E00074C5B7101A82E0080000000010B2A81D592FD901000000000000000
+ 010000000D34E7BCD1C5E974CA469F35F62C2ED1A
+SUMMARY;LANGUAGE=en-US:Toyota Connected Live Video Technical Discussion : U
+ day Kiran Ramaraju (Campus Hiring)
+DTSTART;TZID=India Standard Time:20230127T130000
+DTEND;TZID=India Standard Time:20230127T132000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20230123T130521Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION;LANGUAGE=en-US:Microsoft Teams Meeting
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-OWNERAPPTID:326572007
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-SKYPETEAMSMEETINGURL:https://teams.microsoft.com/l/meetup-join/
+ 19%3ameeting_MDdiY2FjMTYtMDMzMy00NjVmLWFjZDMtZWY3MDVjNmRjZGE1%40thread.v2/
+ 0?context=%7b%22Tid%22%3a%22cfb57949-7a2c-4f96-b7f8-05382a502dad%22%2c%22O
+ id%22%3a%22a1d8fb45-237a-4635-aae4-82906d531b60%22%7d
+X-MICROSOFT-SCHEDULINGSERVICEUPDATEURL:https://api.scheduler.teams.microsof
+ t.com/teams/cfb57949-7a2c-4f96-b7f8-05382a502dad/a1d8fb45-237a-4635-aae4-8
+ 2906d531b60/19_meeting_MDdiY2FjMTYtMDMzMy00NjVmLWFjZDMtZWY3MDVjNmRjZGE1@th
+ read.v2/0
+X-MICROSOFT-SKYPETEAMSPROPERTIES:{"cid":"19:meeting_MDdiY2FjMTYtMDMzMy00NjV
+ mLWFjZDMtZWY3MDVjNmRjZGE1@thread.v2"\,"private":true\,"type":0\,"mid":0\,"
+ rid":0\,"uid":null}
+X-MICROSOFT-ONLINEMEETINGCONFLINK:conf:sip:shashi.ps@toyotaconnected.co.in\
+ ;gruu\;opaque=app:conf:focus:id:teams:2:0!19:meeting_MDdiY2FjMTYtMDMzMy00N
+ jVmLWFjZDMtZWY3MDVjNmRjZGE1-thread.v2!a1d8fb45237a4635aae482906d531b60!cfb
+ 579497a2c4f96b7f805382a502dad
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-LOCATIONS:[ { "DisplayName" : "Microsoft Teams Meeting"\, "Loca
+ tionAnnotation" : ""\, "LocationSource" : 0\, "Unresolved" : false\, "Loca
+ tionUri" : "" } ]
+BEGIN:VALARM
+DESCRIPTION:REMINDER
+TRIGGER;RELATED=START:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR
