@@ -1,4 +1,4 @@
-#YouTube Clone
+YouTube Clone
 
 This is a YouTube clone project built using HTML and CSS. It is designed to imitate the user interface and functionality of the popular video-sharing platform, YouTube.
 
